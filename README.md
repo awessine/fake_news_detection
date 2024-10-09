@@ -40,7 +40,7 @@ pip install numpy pandas matplotlib plotly scikit-learn
 
 ## Пример вывода
 ```text
-Точность: 95.20%
+Точность: 92.66%
 Clasification report:
               precision    recall  f1-score   support
 
